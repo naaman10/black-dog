@@ -20,8 +20,8 @@ keep_files:
 - ".git"
 - ".gitignore"
 subtitle: Traditional Pub & Restaurant
-url: ''
-baseurl: ''
+url: 
+baseurl: 
 cover: "/img/home-about.jpg"
 logo: "/img/jet.png"
 markdown: kramdown
