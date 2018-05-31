@@ -24,7 +24,7 @@ subtitle: Traditional Ale | Excellent Wines | Great Food
 url: 
 baseurl: 
 cover: "/img/home-about.jpg"
-logo: "/img/jet.png"
+logo: "/img/logo.png"
 markdown: kramdown
 descriptions:
 - cat: jekyll
