@@ -1,6 +1,5 @@
 ---
 title: The Black Dog
-description: Traditional Ale | Excellent Wines | Great Food
 timezone: UTC
 collections:
   posts:
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+description: Traditional Ale | Excellent Wines | Great Food
 exclude:
 - "/vendor/"
 - Gemfile
@@ -21,8 +21,8 @@ keep_files:
 - ".git"
 - ".gitignore"
 subtitle: Traditional Ale | Excellent Wines | Great Food
-url:
-baseurl:
+url: 
+baseurl: 
 cover: "/img/home-about.jpg"
 logo: "/img/jet.png"
 markdown: kramdown
