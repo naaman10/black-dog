@@ -114,3 +114,25 @@ body {
   font-size: 18px;
   font-weight: normal;
 }
+div.card-header {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card-header button {
+  width: 100%;
+}
+#mainsMenu {
+  background-image: url('/img/steak-and-onion-rings.jpg');
+}
+div.card-header .menu-title {
+  color: white;
+  text-decoration: none;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 22px;
+  border-bottom: none;
+}
+div.card-header .menu-title:hover, div.card-header .btn-link:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
