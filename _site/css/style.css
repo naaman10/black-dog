@@ -3,7 +3,16 @@
  * To find the original style.css that ships with Airspace, read airspace.css
  *
  */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3,h4,#slider .block h1 {
+  font-family: 'Frank Ruhl Libre', serif;
+}
 
+#slider {
+  height: 100%;
+}
  .italic {
    font-style: italic;
  }
@@ -31,6 +40,10 @@
 
 .post-area a:hover {
   color: #0D0017;
+}
+.btn-primary {
+  background-color: #F63D5D;
+  border: 0;
 }
 section#facilities {
   padding: 100px;
@@ -84,4 +97,42 @@ body {
 }
 .navbar-default .navbar-toggle {
   border-color: #fff;
+}
+.block .btn {
+  margin-top: 10px;
+}
+.callBook {
+  color: #F63D5D;
+}
+#about, #contact {
+  margin-top: 40px;
+}
+#about .card-header {
+  font-weight: bold;
+}
+#about .card-title {
+  font-size: 18px;
+  font-weight: normal;
+}
+div.card-header {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card-header button {
+  width: 100%;
+}
+#mainsMenu {
+  background-image: url('/img/steak-and-onion-rings.jpg');
+}
+div.card-header .menu-title {
+  color: white;
+  text-decoration: none;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 22px;
+  border-bottom: none;
+}
+div.card-header .menu-title:hover, div.card-header .btn-link:hover {
+  text-decoration: none;
+  font-weight: bold;
 }

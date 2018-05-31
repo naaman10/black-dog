@@ -1,5 +1,6 @@
 ---
-title: The Buccaneer
+title: The Black Dog
+description: Traditional Ale | Excellent Wines | Great Food
 timezone: UTC
 collections:
   posts:
@@ -19,9 +20,9 @@ keep_files:
 - CNAME
 - ".git"
 - ".gitignore"
-subtitle: Traditional Pub & Restaurant
-url: 
-baseurl: 
+subtitle: Traditional Ale | Excellent Wines | Great Food
+url:
+baseurl:
 cover: "/img/home-about.jpg"
 logo: "/img/jet.png"
 markdown: kramdown
