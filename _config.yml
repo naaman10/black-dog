@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  data:
+    title: data
+    output: true
 description: Traditional Ale | Excellent Wines | Great Food
 exclude:
 - "/vendor/"
